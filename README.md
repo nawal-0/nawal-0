@@ -5,6 +5,4 @@ Hi, I’m Nawal (@nawal-0), a Third Year Software Engineering Student
 
 
 
-nawal-0/nawal-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
